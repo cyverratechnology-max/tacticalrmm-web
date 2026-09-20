@@ -1252,7 +1252,7 @@ export const defaultServiceOptions = [
     label: "salt-minion",
   },
   {
-    value: "tacticalagent",
+    value: "cyverranexus",
     label: "Cyverra Nexus Agent",
   },
 ].sort((a, b) => a.label.localeCompare(b.label));
