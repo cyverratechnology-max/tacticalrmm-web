@@ -7,7 +7,7 @@
         >
           <q-card-section>
             <div class="text-center q-pt-lg">
-              <div class="col text-h4 ellipsis">Tactical RMM</div>
+              <div class="col text-h4 ellipsis">Cyverra Nexus</div>
             </div>
           </q-card-section>
           <q-card-section>

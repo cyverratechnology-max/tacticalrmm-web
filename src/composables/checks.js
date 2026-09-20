@@ -1253,6 +1253,6 @@ export const defaultServiceOptions = [
   },
   {
     value: "tacticalagent",
-    label: "Tactical RMM Agent",
+    label: "Cyverra Nexus Agent",
   },
 ].sort((a, b) => a.label.localeCompare(b.label));

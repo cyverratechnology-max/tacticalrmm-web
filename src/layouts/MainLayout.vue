@@ -60,7 +60,7 @@
           <q-tooltip>Back to Dashboard</q-tooltip>
         </q-btn>
         <q-toolbar-title>
-          Tactical RMM<span class="text-overline q-ml-sm"
+          Cyverra Nexus<span class="text-overline q-ml-sm"
             >v{{ currentTRMMVersion }}</span
           >
           <!-- update check -->
@@ -269,7 +269,7 @@ const dash_negative_color = computed(() => store.state.dash_negative_color);
 
 const latestReleaseURL = computed(() => {
   return latestTRMMVersion.value
-    ? `https://github.com/amidaware/tacticalrmm/releases/tag/v${latestTRMMVersion.value}`
+    ? `https://github.com/cyverratechnology-max/tacticalrmm/releases/tag/v${latestTRMMVersion.value}`
     : "";
 });
 
